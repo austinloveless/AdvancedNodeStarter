@@ -27,3 +27,4 @@ MongoDB is used for storing user information, and users blog posts.
 2.  Continuous Integration with Travis CI.
 
 3.  Image/File Upload with AWS s3 Buckets.
+# node-travis-ci
